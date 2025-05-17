@@ -86,7 +86,7 @@ You'll see a real-time 3D view of radar detections and turret responses.
 * Radar detections = green points
 * Turret pointing lines = blue
 
-![Radar-Turret Sample Output](screenshot.png)
+![Radar-Turret Sample Output](resources/screenshot.png)
 
 ---
 
